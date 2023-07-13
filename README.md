@@ -13,4 +13,4 @@ Furthermore, notes taken on paper can be lost, damaged, or sometimes unreadable.
 This is where Clover CMS comes in.
 
 # Why Use Clover CMS?
-So, you run a care home, and you need a system that takes a
+Tbh i wouldn't. Its still in development and its broken 24/7
